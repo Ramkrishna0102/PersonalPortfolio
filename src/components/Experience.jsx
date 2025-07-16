@@ -7,7 +7,7 @@ import oracle from "../assets/oracle.png";
 import mongo from "../assets/mongodb.jpg";
 import Reacte from "../assets/reactjs.png";
 import SQLe from "../assets/Redux.svg";
-import ceerasLogo from "../assets/ceeras.png"; // Add your company logo paths here
+// import ceerasLogo from "../assets/ceeras.png"; // Add your company logo paths here
 import gravitonLogo from "../assets/graviton.png";
 
 function Experiance() {
@@ -23,17 +23,17 @@ function Experiance() {
   ];
 
   const workExperience = [
-    {
-      company: "Ceeras IT Solution",
-      logo: ceerasLogo,
-      role: "MERN Stack Developer (Remote)",
-      duration: "Feb 2025 – Present",
-      description: [
-        "Integrated multiple payment gateways (Stripe,Razorpay) into e-commerce applications using JavaScript and Node.js.",
-        "Implemented third-party RESTful APIs for authentication, geolocation, and data visualization functionalities.",
-        "Developed full-stack web applications using MongoDB, Express, React, and Node.js with responsive UI/UX design.",
-      ],
-    },
+    // {
+    //   company: "Ceeras IT Solution",
+    //   logo: ceerasLogo,
+    //   role: "MERN Stack Developer (Remote)",
+    //   duration: "Feb 2025 – Present",
+    //   description: [
+    //     "Integrated multiple payment gateways (Stripe,Razorpay) into e-commerce applications using JavaScript and Node.js.",
+    //     "Implemented third-party RESTful APIs for authentication, geolocation, and data visualization functionalities.",
+    //     "Developed full-stack web applications using MongoDB, Express, React, and Node.js with responsive UI/UX design.",
+    //   ],
+    // },
     {
       company: "Graviton Web Technologies",
       logo: gravitonLogo,
@@ -69,7 +69,7 @@ function Experiance() {
           Experience
         </h1>
         <p className="text-lg text-gray-700 font-light text-center leading-relaxed mb-10">
-          I've accumulated more than 1 years of experience working with the
+          I've accumulated more than 6 month of experience working with the
           following technologies, delivering impactful and scalable solutions.
         </p>
 
