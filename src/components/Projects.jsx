@@ -17,10 +17,10 @@ const cardItem = [
   },
   {
     id: 2,
-    logo: EduNexus,
-    name: "EduNexus",
+    logo: Syn-Edu,
+    name: "Syn-Edu",
     liveLink: "https://ramkrishna0102.github.io/EDUNEXUS/",
-    sourceCode: "https://github.com/Ramkrishna0102/EDUNEXUS",
+    sourceCode: "https://synchronized-du.vercel.app/",
   },
   {
     id: 3,
