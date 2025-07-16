@@ -36,7 +36,7 @@ function About() {
         </h1>
         <p className="text-lg text-gray-700 leading-relaxed mb-8 text-justify">
           Hello, I'm <span className="font-semibold text-blue-600">Ramkrishna</span>, a passionate Web Developer with a strong focus on the
-          MERN Stack. With a background in IT, I aim to create impactful and
+          Frontend Development. With a background in IT, I aim to create impactful and
           visually stunning software solutions that leave a lasting impression.
         </p>
 
@@ -52,7 +52,7 @@ function About() {
             />
             <p className="text-gray-600 text-lg">
               B.Tech - Computer Science and Engineering, Chandigarh University, Punjab
-              (2021 – 2025) - CGPA: <span className="font-semibold">8.02</span>
+              (2021 – 2025) - CGPA: <span className="font-semibold">8.17</span>
             </p>
           </div>
         </section>
