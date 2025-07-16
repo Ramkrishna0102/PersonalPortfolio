@@ -7,50 +7,57 @@ import imageApp from "../assets/imageapp.jpg";
 import paymentGatway from "../assets/paymentgatway.jpg";
 
 function Projects() {
-  const cardItem = [
-    {
-      id: 1,
-      logo: EduNexus,
-      name: "EduNexus",
-      liveLink: "https://ramkrishna0102.github.io/EDUNEXUS/", 
-      sourceCode: "https://github.com/Ramkrishna0102/EDUNEXUS",
-    },
-    {
-      id: 2,
-      logo: EasyTrack,
-      name: "EasyTrack",
-      liveLink: "https://ramkrishna0102.github.io/RealTimeGPS-and-VehicleTracking/",
-      sourceCode: "https://github.com/Ramkrishna0102/RealTimeGPS-and-VehicleTracking",
-    },
-    {
-      id: 3,
-      logo: Covid19,
-      name: "COVID-19 Prediction and Reporting System",
-      liveLink: "https://app.powerbi.com/view?r=eyJrIjoiYjBhYWU0NTItMmVhOS00MGM5LTk1ZGEtMTQxZTdmZDUxMWUwIiwidCI6ImUwYjlhZTFlLWViMjYtNDZhOC1hZGYyLWQ3ZGJjZjIzNDBhOSJ9",
-      sourceCode: "https://github.com/Ramkrishna0102/Covid-19-Prediction-Reporting",
-    },
-    {
-      id: 4,
-      logo: SentimentAnalysis,
-      name: "Sentiment Analysis on Social Media Data",
-      liveLink: "https://sentiment-analysis.vercel.app",
-      sourceCode: "https://github.com/Ramkrishna0102/Sentiment-Analysis-on-Social-Media-Data",
-    },
-    {
-      id: 5,
-      logo: imageApp,
-      name: "Premium Pixel Vault",
-      liveLink: "https://premium-pixel-vault-6myn.vercel.app/",
-      sourceCode: "https://github.com/your-repo/imageApp",
-    },
-    {
-      id: 6,
-      logo: paymentGatway,
-      name: "Payment Gateway",
-      liveLink: "https://payment-gateway.vercel.app",
-      sourceCode: "https://github.com/your-repo/paymentGatway",
-    },
-  ];
+const cardItem = [
+  {
+    id: 1,
+    logo: "EmployeeManagement", 
+    name: "Employee Management System",
+    liveLink: "https://employee-management-system-eosin-beta.vercel.app/",
+    sourceCode: "https://github.com/Ramkrishna0102/Employee-Management-System",
+  },
+  {
+    id: 2,
+    logo: EduNexus,
+    name: "EduNexus",
+    liveLink: "https://ramkrishna0102.github.io/EDUNEXUS/",
+    sourceCode: "https://github.com/Ramkrishna0102/EDUNEXUS",
+  },
+  {
+    id: 3,
+    logo: EasyTrack,
+    name: "EasyTrack",
+    liveLink: "https://ramkrishna0102.github.io/RealTimeGPS-and-VehicleTracking/",
+    sourceCode: "https://github.com/Ramkrishna0102/RealTimeGPS-and-VehicleTracking",
+  },
+  {
+    id: 4,
+    logo: Covid19,
+    name: "COVID-19 Prediction and Reporting System",
+    liveLink: "https://app.powerbi.com/view?r=eyJrIjoiYjBhYWU0NTItMmVhOS00MGM5LTk1ZGEtMTQxZTdmZDUxMWUwIiwidCI6ImUwYjlhZTFlLWViMjYtNDZhOC1hZGYyLWQ3ZGJjZjIzNDBhOSJ9",
+    sourceCode: "https://github.com/Ramkrishna0102/Covid-19-Prediction-Reporting",
+  },
+  {
+    id: 5,
+    logo: SentimentAnalysis,
+    name: "Sentiment Analysis on Social Media Data",
+    liveLink: "https://sentiment-analysis.vercel.app",
+    sourceCode: "https://github.com/Ramkrishna0102/Sentiment-Analysis-on-Social-Media-Data",
+  },
+  {
+    id: 6,
+    logo: imageApp,
+    name: "Premium Pixel Vault",
+    liveLink: "https://premium-pixel-vault-6myn.vercel.app/",
+    sourceCode: "https://github.com/your-repo/imageApp",
+  },
+  {
+    id: 7,
+    logo: paymentGatway,
+    name: "Payment Gateway",
+    liveLink: "https://payment-gateway.vercel.app",
+    sourceCode: "https://github.com/your-repo/paymentGatway",
+  },
+];
 
   return (
     <div
